@@ -1,2 +1,2 @@
 # flightManager
-A small terminal based program "to manage planes at an airport".
+A small terminal based airport managment program.
